@@ -1,0 +1,19 @@
+#p1{
+
+font-style: italic;
+text-align: center;
+text-decoration: underline;
+color: purple;
+}
+#p2{
+color: rgba(83, 0, 0, 0.949);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#p3{
+color: rgb(95, 2, 2);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#p4{
+color: rgb(87, 1, 1);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
